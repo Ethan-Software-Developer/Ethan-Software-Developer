@@ -176,11 +176,11 @@ CodeOutput
 Step 4. Adding a contribution-eating snake to your profile
 Now the final set is to add this to your profile. Grab the file location of your *.gif. It should be something like:
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+https://github.com/Ethan-Software-Developer/Ethan-Software-Developer/blob/output/github-contribution-grid-snake.gif
 
 Add this to your profile by copying the file location onto a new line in your markdown file:
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ethan-Software-Developer/Ethan-Software-Developer/blob/output/github-contribution-grid-snake.gif)
 
 Now you should have a really cool looking snake eating your contributions!
 
@@ -308,11 +308,11 @@ github.com/1SeaMy/1SeaMy/blob/main...
 
 2-Use this;
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Ethan-Software-Developer/Ethan-Software-Developer/blob/output/github-contribution-grid-snake-dark.svg)
 
 or this
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ethan-Software-Developer/Ethan-Software-Developer/blob/output/github-contribution-grid-snake.svg)
 
 
 2
