@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ethan-Software-Developer/Ethan-Software-Developer/main/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE-ezgif.com-optimize.gif">
-
+<img align='center' src="https://raw.githubusercontent.com/Ethan-Software-Developer/Ethan-Software-Developer/main/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE-ezgif.com-optimize.gif" width="100%" height="20%">
 
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate developer South Africa</h3>
@@ -7,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-software-developer&label=Profile%20views&color=0e75b6&style=flat" alt="ethan-software-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethan-software-developer" alt="ethan-software-developer" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ethan-Software-Developer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
