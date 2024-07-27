@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Ai**
 
-- 🌱 I’m currently learning **PyTorch,Tailwindcss,Django**
+- 🌱 I’m currently learning **Web Development,Data Anylatic's,Server Managment**
 
 - 💬 Ask me about **Python,Networking,Hardware**
 
