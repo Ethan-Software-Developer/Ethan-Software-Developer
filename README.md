@@ -1,7 +1,7 @@
 
 
 <img align='center' src="https://raw.githubusercontent.com/Ethan-Software-Developer/Ethan-Software-Developer/main/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE-ezgif.com-optimize.gif" width="100%" height="20%">
-F
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ethan+Sevenster!;" />
 </h1>
