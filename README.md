@@ -12,7 +12,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ethan-Software-Developer&theme=shadow_red)](https://github.com/ryo-ma/github-profile-trophy)
 
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/950035e2-8c6f-4578-9a0c-f056cca43808)
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300px" height="auto" align="right">
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
